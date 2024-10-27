@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -51,4 +52,8 @@ export default tseslint.config({
 # taskmanagement-go-react-frontend
 # taskmanagement-go-react-frontend
 # taskmanagement-go-react-frontend
+# taskmanagement-go-react-frontend
+=======
+# Front end code
+>>>>>>> b550e15fb96f7b2867442dea499c966980bbd244
 # taskmanagement-go-react-frontend
